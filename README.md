@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview
-Citi Bike is the nation's largest bike share program we are studying to try to launch a similar company in another city. To gain investors we will need to fully understand the details that make Citi Bike work.
+Citi Bike is the nation's largest bike share program we are studying to try to launch a similar company in another city. To gain investors we will need to fully understand the details that make Citi Bike successful.
 
 ## Results
 Here is the link to the Tableau story. [Citibike Breakdown](https://public.tableau.com/views/Module14Challenge_16626583327130/CitibikeBreakdown?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -12,7 +12,7 @@ Here is the link to the Tableau story. [Citibike Breakdown](https://public.table
 * Men are the main customers
 ![Checkout_times_gender](https://github.com/marveld21/Bikesharing/blob/main/Images/Checkout_times_gender.PNG)
 
-* Peak times of usage correlate with commutes on the weekdays and there is moderate usage throught the middle of the day on weekends.
+* Peak times of usage correlate with commutes on the weekdays and there is moderate usage through the middle of the day on weekends.
 
 ![TripsbyWeekday](https://github.com/marveld21/Bikesharing/blob/main/Images/Trips_by_Weekday.PNG)
 
@@ -22,7 +22,11 @@ Here is the link to the Tableau story. [Citibike Breakdown](https://public.table
 * The subscription service seems to be very popular with users.
 ![Tripsweekdaygendersubs](https://github.com/marveld21/Bikesharing/blob/main/Images/Trips_by_Weekday_Gender_subscribers.PNG)
 
-* Most trips begin in the downtown area. A additonal heat-map with gender as a filter shows some areas where the difference in the gender usage is less.
+* Most trips begin in the downtown area. A additional heat-map with gender as a filter shows some areas where the difference in the gender usage is less.
 ![StartLoc](https://github.com/marveld21/Bikesharing/blob/main/Images/Startloc_map.PNG)
 ![simgenderusage](https://github.com/marveld21/Bikesharing/blob/main/Images/similar_gender_usage.PNG)
+
 ## Summary
+As long as we find the correct high density areas to place our bike the new company should be a success.
+A new visualization showing the trip 'routes' could let us know if the bikes are moving to areas faster than they are moving back. We might need to implement a shuttle service for the bikes from low density to high density areas.
+Another helpful visualization would be on bikeid usage. It could help us identify bikes that people are avoiding.
