@@ -12,7 +12,8 @@ Here is the link to the Tableau story. [Citibike Breakdown](https://public.table
 * Men are the main customers
 ![Checkout_times_gender](https://github.com/marveld21/Bikesharing/blob/main/Images/Checkout_times_gender.PNG)
 
-* Peak times of usage correlate with commutes on the weekdays and there is moderate usage throught the middle of the day on weekends.
+* Peak times of usage correlate with commutes on the weekdays and 
+there is moderate usage throught the middle of the day on weekends.
 ![TripsbyWeekday](https://github.com/marveld21/Bikesharing/blob/main/Images/Trips_by_Weekday.PNG)
 
 * There does not appear to be a difference in usage times between genders
